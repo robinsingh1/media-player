@@ -1,4 +1,3 @@
-require "media-player/version"
 
 module MediaPlayer
 	def the_view
