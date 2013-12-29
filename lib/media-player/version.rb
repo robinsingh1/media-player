@@ -1,3 +1,3 @@
-module Media-Player
+module MediaPlayer
     VERSION = "0.0.1"
 end
