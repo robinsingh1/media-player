@@ -1,6 +1,6 @@
 $:.unshift("/Library/RubyMotion/lib")
 require "bundler/gem_tasks"
-require 'motion/project'
+require 'motion/project/template/ios'
 Bundler.setup
 Bundler.require
-require 'bubblew-wrap/test'
+require 'bubble-wrap/test'
