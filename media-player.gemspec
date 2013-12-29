@@ -5,7 +5,7 @@ require 'media-player/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "media-player"
-  spec.version       = MediaPlayer::VERSION
+  spec.version       = '0.0.1'
   spec.authors       = ["Robin Singh"]
   spec.email         = ["robin.singh.1991@gmail.com"]
   spec.description   = "Wrapper Around Media Player"
